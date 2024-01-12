@@ -98,7 +98,7 @@ function NavBar() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Published Paper
+                <ImBlog style={{ marginBottom: "2px" }} /> Publication
               </Nav.Link>
             </Nav.Item>
 
