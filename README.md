@@ -1,6 +1,6 @@
-#Portfolio
+# Portfolio
 
-#Tech used:
+# Tech used:
 React.js
 CSS3
 Vercel
